@@ -20,7 +20,7 @@ let subset_sum lst target = failwith "not yet implemented" ;;
 (* Define a function partition that divides a list into two lists, such that the
 first list contains elements that satisfy a predicate function f and the second list contains elements
 that don’t satisfy the predicate. You may assume the input list is an integer list. *)
-let partition pred list = failwith "not yet implemented" ;; 
+let partition pred lst = failwith "not yet implemented" ;; 
 
 
 (* Define a function pack that packs consecutive dupli-
